@@ -11,7 +11,7 @@ header {
   position: fixed;
   left: 0;
   right: 0;
-  margin: 40px;
+  margin: 50px;
   top: 0;
   background: rgb(87, 87, 136);
   text-align: center;
@@ -19,13 +19,12 @@ header {
 }
 
 #minha_foto {
-  width:auto;
+  width: auto;
+  margin: 15px;
   height: 300px;
   margin-top: 150px;
   padding-left: 40px;
   border: lightslategrey;
-
-
 }
 
 h1 {
@@ -40,20 +39,20 @@ h2 {
   padding: 10px;
   font-size: 25px;
   color: rgb(87, 87, 136);
-  margin: 20px;
+  margin: 50px;
 }
 #licoes_a_aprender {
-  margin: 20px;
+  margin: 50px;
 }
 #licoes_aprendidas {
-  margin: 20px
+  margin: 50px
 }
 .lado-esquerdo {
   display: inline-block;
   text-align: center;
   width: 15%;
   padding-left: 20px;
-  margin-left: 20px;
+  margin-left: 200px;
   padding: 20px;
   vertical-align: middle;
 }
@@ -61,11 +60,22 @@ h2 {
   text-align: center;
   display: inline-block;
   width: 15%;
-  margin-left: 70px;
+  margin-left: 200px;
   vertical-align: middle;
 }
-
-
+.legenda {
+  text-align:initial;
+  margin-left: 60px;
+  font-size: 15px;
+}
+table, th, td {
+  border: 3px solid black;
+  width: 50%;
+  margin-left: 300px;
+  text-align: center;
+  }
 #rodape {
-padding-inline: 50%;
+
+padding: 30px;
+margin-left: 50%;
 }
