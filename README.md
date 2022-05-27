@@ -1,4 +1,4 @@
-### Projeto Solar System
+## Projeto Solar System
 
 Esse projeto é um modelo do sistema solar! 
 
@@ -14,14 +14,14 @@ Primeiro projeto utilizando React.
 
 ---
 
-# Página da Aplicação 
+## Página da Aplicação 
 
-![img](src/images/Grava%C3%A7%C3%A3o%20de%20tela%20de%2026-05-2022%2000%3A02%3A11.webm)
+![img](src/images/ezgif.com-gif-maker.gif)
 <br>
 
 ---
 
-# Tecnologias Utilizadas no Projeto
+## Tecnologias Utilizadas no Projeto
 
 Front-end:
 
